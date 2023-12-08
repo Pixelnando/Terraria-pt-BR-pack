@@ -33,7 +33,7 @@
 		"HEX_EDUCATION_Description": "Derrote uma Bruxa Goblin, invocadores das chamas mais sombrias."
 	},
 	"CLI": {
-		"HelpHint": "Digite \"help\" para consultar uma lista de comandos.",
+		"HelpHint": "Digite \"help\" para consultar uma lista de comandos."
 	},
 	"Game": {
 		"BallBounceResult": "{0} foi atingida {1} vezes antes de tocar no chão!",
@@ -62,15 +62,15 @@
 		"BlockReplacerOn": "Troca de Blocos: Ligada",
 		"QuickStackToNearby": "Depósito rápido nos baús próximos",
 		"TorchTypeSwapperOff": "Troca de Tocha no Bioma: Desligada",
-		"TorchTypeSwapperOn": "Troca de Tocha no Bioma: Ligada",
+		"TorchTypeSwapperOn": "Troca de Tocha no Bioma: Ligada"
 	},
 	"Misc": {
 		"Crimstone": "Pedra do Carmim",
-		"PetExchangeSuccess": "Troca de animais: Concluída!",
+		"PetExchangeSuccess": "Troca de animais: Concluída!"
 	},
 	"Net": {
 		"ServerAutoShutdown": "O jogador local saiu do jogo. Iniciando fechamento automático.",
-		"PlayerIsCreativeAndWorldIsNotCreative": "Apenas personagens não-Jornada podem entrar em um servidor não-Jornada.",
+		"PlayerIsCreativeAndWorldIsNotCreative": "Apenas personagens não-Jornada podem entrar em um servidor não-Jornada."
 	},
 	"Social": {
 		"Joining": "Juntando-se...",
@@ -95,7 +95,7 @@
 		"ShowBossLifeTextOn": "Números na Barra de Vida do Chefe: Lig.",
 		"ShowBossLifeTextOff": "Números na Barra de Vida do Chefe: Deslig.",
 		"AutoReuseAllOn": "Disparo Automático: Ligado",
-		"AutoReuseAllOff": "Disparo Automático: Desligado",
+		"AutoReuseAllOff": "Disparo Automático: Desligado"
 	},
 	"DeathSource": {
 		"NPC": "{0} por {1}.",
@@ -112,7 +112,7 @@
 		"Suffocated_2": "{0} foi enterrado(a) com vida.",
 		"WasLicked_1": "{0}. foi lambido(a).",
 		"Fell_4": "{0} descobriu o significado de \"defenestrar\".",
-		"Fell_5": "{0} fez o \"cai, cai\" sem o \"balão\".",
+		"Fell_5": "{0} fez o \"cai, cai\" sem o \"balão\"."
 	},
 	"DeathTextGeneric": {
 		"ArmTornOff": "{0} teve seus braços arrancados",
@@ -172,7 +172,7 @@
 		"Smote": "{0} foi transformado(a) em fumaça"
 	},
 	"DungeonDefenders2": {
-		"WaveComplete": "Onda Concluída!",
+		"WaveComplete": "Onda Concluída!"
 	},
 	"Key": {
 		"DOWN": "PARA BAIXO",
@@ -187,7 +187,7 @@
 		"Russian": "Русский (Russo)",
 		"Chinese": "简体中文 (Chinês Simplificado)",
 		"Portuguese": "Português Brasileiro",
-		"Polish": "Polski (Polonês)",
+		"Polish": "Polski (Polonês)"
 	},
 	"RandomWorldName_Composition": {
 		"6": "{Location} {Adjective}",
@@ -262,11 +262,11 @@
 		"Violet": "Violeta",
 		"Cyan": "Ciano",
 		"White": "Branco",
-		"Flowering": "com Flores",
+		"Flowering": "com Flores"
 	},
 	"RandomWorldName_Location": {
 		"Fantasia": "Faz-de-Conta",
-		"Boingloings": "Tique-Taque",
+		"Boingloings": "Tique-Taque"
 	},
 	"RandomWorldName_Noun": {
 		"Chainsaws": "Serras-Elétricas",
@@ -280,29 +280,29 @@
 		"Boom-Boom": "Bum-Bum",
 		"StinkBugs": "Maria-Fedida",
 		"MadCowDisease": "Doença da Vaca-Louca",
-		"BrokenPromises": "Promessa não Cumprida",
+		"BrokenPromises": "Promessa não Cumprida"
 	},
 	"CreditsRollCategory_BusinessDevelopment": {
-		"1": "Desenvolvimento de Negócios",
+		"1": "Desenvolvimento de Negócios"
 	},
 	"CreditsRollCategory_Dialog": {
-		"1": "Diálogo",
+		"1": "Diálogo"
 	},
 	"CreditsRollCategory_ExecutiveProducer": {
-		"1": "Produtora Executiva",
+		"1": "Produtora Executiva"
 	},
 	"CreditsRollCategory_Playtesting": {
-		"1": "Testadores",
+		"1": "Testadores"
 	},
 	"CreditsRollCategory_Programming": {
 		"8": "David “Chicken Bones” Jakes"
 	},
 	"CreditsRollCategory_PublicRelations": {
-		"1": "Relações Públicas",
+		"1": "Relações Públicas"
 	},
 	"WorkshopTags": {
 		"ExpertWorldsDescription": "Mundos criados para a dificuldade \"Perito\": fortuna e glória, jovem!",
-		"MasterWorldsDescription": "Mundos criados para a dificuldade \"Mestre\": apenas para aqueles tolos que buscam os maiores desafios!",
+		"MasterWorldsDescription": "Mundos criados para a dificuldade \"Mestre\": apenas para aqueles tolos que buscam os maiores desafios!"
 	},
 	"ItemVariantCondition": {
 		"RemixWorld": "Seed Remix",
