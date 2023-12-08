@@ -37,7 +37,7 @@
 		"93": "Médio",
 		"31": "Personagens do modo Clássico largam dinheiro quando morrem.",
 		"223": "Descarte Rápido: Shift Esquerdo",
-		"224": "Descarte Rápido: Control Esquerdo",
+		"224": "Descarte Rápido: Control Esquerdo"
 	},
 	"LegacyTooltip": {
 		"25": " de defesa",
@@ -58,7 +58,7 @@
 		"57": "Descartar, depositar e vender rapidamente serão bloqueados",
 		"58": " de dano por arremesso",
 		"59": "Isto foi amaldiçoado por uma poderosa criatura da Selva",
-		"5": "% de chance de acerto crítico",
+		"5": "% de chance de acerto crítico"
 	},
 	"LegacyMultiplayer": {
 		"22": "{0} juntou-se ao grupo cor-de-rosa.",
@@ -85,7 +85,7 @@
 		"5": "A Legião Congelada está se aproximando do oeste!",
 		"6": "A Legião Congelada está se aproximando do leste!",
 		"71": "Criação rápida",
-		"7": "A Legião Congelada chegou!",
+		"7": "A Legião Congelada chegou!"
 	},
 	"LegacyInterface": {
 		"100": "Número de Criaturas",
@@ -96,7 +96,7 @@
 		"44": "Recebendo dados sobre as peças",
 		"72": "Ligada",
 		"92": "Mascote",
-		"94": "Mascote Luminoso",
+		"94": "Mascote Luminoso"
 	},
 	"LegacyChestType": {
 		"20": "Baú do Carmim",
