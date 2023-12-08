@@ -3,7 +3,6 @@
 		"36": "Posicionando forjas do inferno",
 	},
 	"LegacyDialog": {
-		
 		"106": "É uma boa dia para morrer!",
 		"122": "Agora que me expulsaram, posso jogar fora as bolas com espinhos? Meus bolsos doem.",
 		"129": "O silêncio vale ouro. A fita adesiva vale prata.",
@@ -22,12 +21,19 @@
 		"331": "Normalmente é possível encontrar Corações do Carmim em abismos perto de áreas do carmim. Quebrar muitos deles libertará o Cérebro de Cthulhu. Derrotar esse inimigo pode fazer com que meteoros caiam do céu."
 	},
 	"LegacyMenu": {
+		"123": "Barra de Progresso do Evento:",
 		"125": "Cronometrada",
 		"126": "Ligada",
+		"128": "Prévia do Posicionamento: Ligada",
+		"129": "Prévia do Posicionamento: Desligada",
 		"155": "Gancho",
 		"157": "Efeito Rápido",
 		"220": "Ativar Bônus de Conjunto: Para Cima",
 		"221": "Ativar Bônus de Conjunto: Para Baixo",
+		"229": "Grade de Blocos: Ligada",
+		"230": "Grade de Blocos: Desligada",
+		"241": "Instruções do Gamepad: Desligadas",
+		"242": "Instruções do Gamepad: Ligadas",
 		"67": "Salvar Progresso Automaticamente: Ligado",
 		"68": "Salvar Progresso Automaticamente: Desligado",
 		"69": "Pausa Automática: Ligada",
@@ -38,6 +44,7 @@
 		"31": "Personagens do modo Clássico largam dinheiro quando morrem.",
 		"223": "Descarte Rápido: Shift Esquerdo",
 		"224": "Descarte Rápido: Control Esquerdo"
+		
 	},
 	"LegacyTooltip": {
 		"25": " de defesa",
@@ -91,9 +98,13 @@
 		"100": "Número de Criaturas",
 		"101": "Número de Mortes",
 		"106": "Dano por Segundo",
+		"116": "Destacar Itens Novos: Desligado",
+		"117": "Destacar Itens Novos: Ligado",
 		"19": "Reforjar",
 		"20": "Coloque um item aqui para reforjá-lo",
 		"44": "Recebendo dados sobre as peças",
+		"5": "Hotbar: Desbloqueada",
+		"6": "Hotbar: Bloqueada",
 		"72": "Ligada",
 		"92": "Mascote",
 		"94": "Mascote Luminoso"
