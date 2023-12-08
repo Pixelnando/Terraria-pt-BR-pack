@@ -1,0 +1,186 @@
+{
+	"DryadSpecialText": {
+		"WorldStatusAll": "{0} é {1}% consagrado, {2}% corrompido, e {3}% carmim.",
+		"WorldStatusHallowCrimson": "{0} é {1}% consagrado e {2}% carmim.",
+		"WorldStatusCorruptCrimson": "{0} é {1}% corrompido e {2}% carmim.",
+		"WorldStatusCrimson": "{0} é {1}% carmim."
+	},
+	"WitchDoctorSpecialText": {
+		"Windy1": "Não tire o olho do seu talismã em um dia como hoje... tenha certeza que está sempre o \"vento\"."
+	},
+	"TravellingMerchantSpecialText": {
+		"Party": "Dizem que as festas são a fonte das memórias mais valiosas. Então compre algo e torne essa uma memória valiosa!",
+		"Windy2": "Eu poderia vender meias que não deixam você ser levado pelo vento, mas seria uma solução \"meia\" boca para o problema."
+	},
+	"PartyGirlSpecialText": {
+		"Windy1": "Alguém falou \"Furacão 2000\"? É o som ideal para uma festa nesta ventania..."
+	},
+	"ArmsDealerSpecialText": {
+		"Rain2": "Peixes voadores? Eu chamo de \"tiro ao alvo\"!"
+	},
+	"AnglerQuestText": {
+		"Quest_Ichorfish": "Você sabia que nas profundezas do carmim algumas daquelas criaturas criam esta coisa amarela nojenta? Ouvi uma estória maluca sobre uma piscina dessa coisa ter acumulado e formado um peixe, que nada e tudo mais! Pegue-o para mim, quero colocar ele na privada de alguém!\n\n(Capturada no Carmim)",
+		"Quest_BloodyManowar": "Oh! Não venha para perto de mim! Levei uma picada de uma Caravela Sangrenta! Se você não for inteligente o suficiente para saber do que estou falando, é a água-viva mais perigosa de todo o {WorldName}! Vá até o carmim apodrecido e pegue uma, se tiver coragem! \n\n(Capturada no Carmim)",
+		"Quest_Slimefish": "As geleias da floresta são meio nojentas. Peixes-geleia são ainda mais! Não quero nadar com geleias, então capture um deles para mim.\n\n(Capturado na Superfície da Floresta)",
+		"Quest_Dirtfish": "Eu estava puxando o grandão quando apareceu um zumbi falante engraçado do lago na floresta, dizendo algo sobre uma espécie de peixe \"feroz\", feito de lama! Ele disse que o peixe era capaz de sufocar dez caras do tamanho dele, ou algo parecido... Eu quero ele! AGORA!\n\n(Capturado na Superfície e no Subterrâneo)",
+		"Quest_ScarabFish": "Li uma história antiga sobre um peixe que parece um escaravelho mágico! Ou um \"besouro\" pra quem tem o vocabulário mais limitado, como você. Onde o encontrar? Onde você acha? No deserto, claro! Não me olhe assim... é verdade! Tem água lá! Eu até iria, mas não quero que meus olhos sejam devorados por abutres. Sendo assim... vá você!\n\n(Capturado no Deserto)",
+		"Quest_Pengfish": "É uma baleia! É um golfinho! Não, é um peixe pinguim! Ah, e olha só, é você! Você que vai trazer um para mim! Você sabe que eles só gostam de água gelada, certo?\n\n(Capturado na Superfície da Tundra)",
+		"Quest_Pixiefish": "Há um tipo muito, muito raro de pixie que nasce com tantas asas que não consegue voar! Ela nada com os peixes nos lagos rodeada por aquela grama azul. Meu aquário precisa de uma lâmpada, então eu quero que você pegue aquela fada para mim!\n\n(Capturado na Superfície da Terra Consagrada)",
+		"Quest_FallenStarfish": "Adoro pegar aquelas estrelas amarelas brilhantes que caem do céu! Eu adoro ainda mais quando elas caem na cabeça de alguém. Mas... mas... nada é melhor do que uma estrela que cai no lago na floresta e se transforma em um peixe! Isso é muito irado, e você é irado o suficiente para buscá-la para mim!\n\n(Capturado na Suficiente e Lagos Celestes)"
+	},
+	"BartenderChatter": {
+		"Chatter_16": "{?BloodMoon}Sabe, de onde eu venho, a Lua de Sangue é só uma desculpa para sair e tomar um ar fresco.",
+		"Chatter_2": "Dizem que você é forte, eu entendo de força. Vamos ver se você merece essa fama."
+	},
+	"BartenderHelpText": {
+		"Help_11": "Eu também ouvi falar que o poder dos próprios artefatos pode ser ampliado se você derrotar o Exército do Ancião. Talvez você consiga até usá-los na hora que quiser!"
+	},
+	"GuideHelpText": {
+		"Help_1065": "Você pode até mesmo remover pessoas de suas casas através da interface de alojamento! <right> na bandeira hasteada na casa delas. Você também pode <left> para atribuir uma nova casa para elas."
+	},
+	"TownNPCHousingFailureReasons": {
+		"HoleInWallIsTooBig": "Esta sala está sem uma parede",
+		"RoomIsTooSmall": "Esta sala é pequena demais",
+		"RoomHasAStinkbug": "Esta sala está infestada por uma maria-fedida!",
+		"RoomHasAnEchoStinkbug": "Esta sala está infestada por uma maria-fedida fantasmagórica!"
+	},
+	"BestiaryGirlChatter": {
+		"Chatter_6": "Para de puxar minha cauda, ela é real, tipo... dói muito quando você puxa!",
+	},
+	"GolferChatter": {
+		"Chatter_14": "Evite obstáculos de água, por favor, opte pelos fairways e greens a que está habituado.",
+		"Chatter_2": "Quê? Você come O QUE no café da manhã?",
+	},
+	"GuideHelpTextSpecific": {
+		"Help_1140": "Seu próximo passo deveria ser explorar as cavernas do Carmim. Destrua todos os Corações do Carmim que você encontrar.",
+	},
+	"TownNPCMood_Angler": {
+		"DislikeBiome": "Você bateu a cabeça? Não tem peixe n{BiomeName}!",
+		"HateBiome": "Ei, os peixes aqui n{BiomeName} estão tentando me matar.",
+	},
+	"TownNPCMood_ArmsDealer": {
+		"HateNPC": "Eu ADORARIA usar {NPCName} como um alvo de alcance algum dia.",
+	},
+	"TownNPCMood_BestiaryGirl": {
+		"LoveNPC": "Não consigo explicar. Eu tenho uma queda por {NPCName}. Será que é por causa da cauda?",
+	},
+	"TownNPCMood_Clothier": {
+		"DislikeBiome": "Não tem lugares escuros o bastante n{BiomeName}.",
+		"HateBiome": "Minha alma parece dividida quando estou n{BiomeName}, como se meu ser estivesse no meio de uma guerra entre o bem e o mal.",
+		"LikeBiome": "É preciso ver para crer, mas às vezes as coisas legais estão n{BiomeName}.",
+		"LoveNPC": "Em toda a minha vida, nunca vi algo mais delicioso que {NPCName}.",
+	},
+	"TownNPCMood_Cyborg": {
+		"HateBiome": "Detectando um número muito grande de formas de vida hostis n{BiomeName}.",
+		"LikeBiome": "Minhas funções cibernéticas funcionam melhor nas temperaturas d{BiomeName}. Isto é benéfico.",
+	},
+	"TownNPCMood_DD2Bartender": {
+		"DislikeBiome": "Não sou muito fã d{BiomeName}.",
+	},
+	"TownNPCMood_Demolitionist": {
+		"HateBiome": "Só há cheiro de morte e malícia n{BiomeName}. Quero encher este lugar de crateras!",
+		"LikeBiome": "Os anões gostam naturalmente d{BiomeName}. Está no nosso sangue!",
+	},
+	"TownNPCMood_Dryad": {
+		"LikeBiome": "Beijei uma árvore n{BiomeName} e gostei.",
+	},
+	"TownNPCMood_DyeTrader": {
+		"LikeBiome": "Ah, é tão legal aqui n{BiomeName}. Este lugar me lembra minha terra natal, gosto muito!",
+	},
+	"TownNPCMood_GoblinTinkerer": {
+		"DislikeBiome": "Não gosto d{BiomeName}. É um lugar cheio de pestes irritantes e barulhentas que atrapalham meu trabalho.",
+	},
+	"TownNPCMood_Golfer": {
+		"DislikeBiome": "Diga-me uma coisa. Como vou jogar golfe n{BiomeName}?",
+		"LikeBiome": "Gosto d{BiomeName}. É um lugar ótimo para jogar golfe.",
+	},
+	"TownNPCMood_Guide": {
+		"DislikeBiome": "Não gosto muito d{BiomeName}. Não tem nada para fazer.",
+	},
+	"TownNPCMood_Mechanic": {
+		"DislikeBiome": "Não gosto d{BiomeName} porque me lembra uma experiência traumática.",
+		"HateBiome": "Fico extremamente desconfortável n{BiomeName}. É como se tivesse olhos me observando o tempo todo.",
+		"LikeBiome": "Gosto d{BiomeName}. Aqui, as máquinas não superaquecem e o fluxo de energia é eficiente.",
+	},
+	"TownNPCMood_Merchant": {
+		"HateBiome": "Não acho que eu consiga vender produtos para os monstros n{BiomeName}!",
+		"LikeBiome": "Gosto do visual n{BiomeName}. Uma bela vista atrai os clientes!",
+	},
+	"TownNPCMood_Nurse": {
+		"LikeBiome": "Gosto do fato de que {BiomeName} é um ótimo lugar para se exercitar todos os dias.",
+	},
+	"TownNPCMood_Painter": {
+		"DislikeBiome": "Por que eu não gosto d{BiomeName}? Porque é um lugar chato. Verde? Marrom? É isso?",
+		"LikeBiome": "Tem muitos ingredientes para tintas n{BiomeName}. A vista também não é nada mal!",
+	},
+	"TownNPCMood_PartyGirl": {
+		"LikeBiome": "Por que eu gosto d{BiomeName}? Porque tem ARCO-ÍRIS aqui!",
+	},
+	"TownNPCMood_Pirate": {
+		"DislikeBiome": "Um lugar como {BiomeName} é apertado demais para o gosto de um velho lobo do mar!",
+		"HateBiome": "Yarr, {BiomeName} é o pior lugar de terra seca em que já andei!",
+	},
+	"TownNPCMood_SantaClaus": {
+		"DislikeBiome": "Não gosto d{BiomeName}.",
+		"LikeBiome": "Eu gosto d{BiomeName}.",
+	},
+	"TownNPCMood_Steampunker": {
+		"DislikeBiome": "Toda a confusão d{BiomeName} não me cai bem!",
+		"HateBiome": "Não tem o que fazer n{BiomeName}, e ainda é um lugar feio e perigoso!",
+		"LikeBiome": "Eu gosto dos espaços aberto d{BiomeName}. É ótimo para passeios de jetpack.",
+	},
+	"TownNPCMood_Stylist": {
+		"DislikeBiome": "Não gosto d{BiomeName}. Como é possível deixar o cabelo de fora com tanto frio?",
+		"HateBiome": "Argh, meu cabelo fica muito danificado n{BiomeName}!",
+		"LikeBiome": "A atmosfera n{BiomeName} é calma e perfeita para se cortar cabelos.",
+	},
+	"TownNPCMood_TaxCollector": {
+		"LikeBiome": "Morar n{BiomeName} faz com que as pessoas fiquem em casa e me deixem em paz. Gosto disso.",
+	},
+	"TownNPCMood_Truffle": {
+		"DislikeBiome": "Não gosto d{BiomeName}.",
+		"HateBiome": "Não pertenço n{BiomeName}, eu não sobreviveria aqui!",
+	},
+	"TownNPCMood_WitchDoctor": {
+		"DislikeBiome": "As magias d{BiomeName} são opressivas, não puras. Meu coração e minha alma ficam enfurecidos.",
+		"HateBiome": "Sinto uma maldade na terra e em todas as coisas vivas d{BiomeName}.",
+		"LikeBiome": "Não imagino viver em outro lugar além d{BiomeName}, que é o centro dos meus espíritos vudus.",
+	},
+	"TownNPCMood_Wizard": {
+		"DislikeBiome": "Não gosto d{BiomeName}. A magia não flui em um lugar como este.",
+		"HateBiome": "As abominações que residem n{BiomeName} me assustam, como as formas mais sombrias de magia.",
+		"LikeBiome": "Como não gostar d{BiomeName}? Tem unicórnios e arco-íris aqui.",
+	},
+	"PrincessChatter": {
+		"Chatter_1": "Eu agradeço muito por tudo que você fez por nossas terras! Obrigada!",
+	},
+	"TownNPCMood_Princess": {
+		"DislikeBiome": "Não gosto d{BiomeName}.",
+	},
+	"BestiaryGirlNames": {
+		"Name_21": "Lilith"
+	},
+	"DogNames_Beagle": {
+		"Pete": "Pete"
+	},
+	"SlimeBlueChatter": {
+		"Chatter_2": "Babble babble blub... gulp!",
+	},
+	"SlimeGreenChatter": {
+		"Chatter_1": "Drip!",
+		"Chatter_2": "Sizzle fo shizzle!",
+		"Chatter_3": "Yo, slurp glurp!"
+	},
+	"SlimeOldChatter": {
+		"Chatter_2": "Poot... aham!",
+	},
+	"SlimeRedChatter": {
+		"Chatter_3": "Arroto... heh."
+	},
+	"SlimeYellowChatter": {
+		"Chatter_1": "Bubble bubble! Boil glubble!",
+	},
+	"SlimeCopperChatter": {
+		"Chatter_3": "Squish e sploink!"
+	}
+}
