@@ -205,7 +205,8 @@
 	},
 	"CreativePowers": {
 		"NPCSpawnRateSlider_Closed": "Abrir controle deslizante da taxa de surgimento de inimigos",
-		"NPCSpawnRateSlider_Opened": "Fechar controle deslizante da taxa de surgimento de inimigos"
+		"NPCSpawnRateSlider_Opened": "Fechar controle deslizante da taxa de surgimento de inimigos",
+		"TabVanity": "Decorativo"
 	},
 	"EmojiName": {
 		"BossBoC": "cdc",
