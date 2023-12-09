@@ -2,6 +2,8 @@
 	"GameTitle": {
 		"27": "Terraria: E os espeleólogos dizem \"o quê\"?",
 		"28": "Terraria: Então eu disse \"Algo a ver com uma atualização do PC...\"",
+		"40": "Terraria: Por favor, Redigite",
+		"44": "Terraria: Cthulhu está maluco... e ele está com um olho a menos!",
 		"50": "Terraria: Experimente também Breath of the Wild!",
 		"57": "Terraria: Experimente também Project Zomboid!",
 		"61": "Terraria: Otherworld",
@@ -93,6 +95,7 @@
 		"ToggleBank4VacuumIsOff": "Atração do Vazio: Desligada",
 		"ToggleBank4VacuumIsOn": "Atração do Vazio: Ligada",
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Erro: este Mundo tem dados inválidos!",
+		"WorldDescriptionName": "Dê um nome para o seu Mundo! Você pode mudá-lo mais tarde se necessário!",
 		"CreativeDescriptionPlayer": "Personagens \"Jornada\" iniciam com equipamento adicional e só podem ser usados em mundos \"Jornada\".",
 		"ShowBossLifeTextOn": "Números na Barra de Vida do Chefe: Lig.",
 		"ShowBossLifeTextOff": "Números na Barra de Vida do Chefe: Deslig.",
