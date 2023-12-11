@@ -1,5 +1,12 @@
 {
 	"NPCName": {
+		"DesertLamiaDark": "Lâmia",
+		"DesertLamiaLight": "Lâmia",
+		"PirateCrossbower": "Pirata Atiradora",
+		"ThePossessed": "A Possuída",
+		"ArmoredViking": "Viking com Armadura",
+		"SkeletonSniper": "Esqueleto Sniper",
+		"GoldDragonfly": "Libélula de Ouro",
 		"AnglerFish": "Peixe-Diabo",
 		"GreenJellyfish": "Água-Viva Verde",
 		"Slimer": "Geleia Corrompida Alada",
@@ -63,12 +70,12 @@
 		"WalkingAntlion": "Formiga-Leão Corredora",
 		"WaterStrider": "Aranha-d'Água",
 		"BestiaryGirl": "Zoóloga",
-		"StardustCellSmall": "Mini Célula de Estrelas",
+		"StardustCellSmall": "Mini Célula das Estrelas",
 		"Stinkbug": "Maria-Fedida",
 		"TownSlimeBlue": "Geleia Nerd",
 		"TownSlimeOld": "Geleia Idosa",
 		"BoundTownSlimeOld": "Baú Antigo Trêmulo",
-		"BoundTownSlimePurple": "Geleia Desajeitada de Balão",
+		"BoundTownSlimePurple": "Geleia Desajeitada num Balão",
 		"GoblinSummoner": "Bruxa Goblin"
 	}
 }
