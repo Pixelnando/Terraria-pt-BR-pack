@@ -16,6 +16,10 @@
 		"SpectreHealing": "Reduz o dano por magia em 40% e converte-o em força de cura\nO dano por magia causado a inimigos cura o jogador com menos vida restante"
 	},
 	"BuffDescription": {
+		"StardustDragonMinion": "O dragão de poeira estelar protegerá você",
+		"StardustGuardianMinion": "O guardião de poeira estelar protegerá você",
+		"StardustMinion": "A célula de poeira estelar lutará por você",
+		"StardustMinionBleed": "Sendo devorado por células",
 		"BabyFaceMonster": "Um monstro da face bebê está seguindo você",
 		"Battle": "Taxa de surgimento de inimigos maior",
 		"Burning": "Perdendo vida e tem os movimentos desacelerados",
