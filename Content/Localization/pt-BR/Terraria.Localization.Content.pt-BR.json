@@ -1157,19 +1157,6 @@
 		"Untalented": "sem Talento",
 		"Untamed": "não Dominado",
 		"Unwicked": "não Perverso",
-		"Stinky": "Brasileiro",
-		"Sleepy": "Incapaz",
-		"Clear": "Claro",
-		"Sparkling": "Sagaz",
-		"Disgusting": "do Guia",
-		"Exalted": "Amassado",
-		"Fearsome": "de JoJo", 
-		"Scary": "da Peste",
-		"Spooky": "Colossal",
-		"Harsh": "de Noé",
-		"Wonderful": "Gordo",
-		"Moist": "do Destino",
-		"Subaverage": "Mortal",
 		"Sus": "Sus",
 		"Undead": "do Morto-Vivo",
 		"Ballin": "com Tudo",
@@ -1186,7 +1173,6 @@
 		"Flowering": "com Flores"
 	},
 	"RandomWorldName_Location": {
-		"Chasm": "Brasil",
 		"Fantasia": "Faz-de-Conta",
 		"Boingloings": "Tique-Taque"
 	},
