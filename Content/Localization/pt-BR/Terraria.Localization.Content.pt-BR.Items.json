@@ -719,7 +719,8 @@
 		"AncientPinkDungeonBrickWall": "Parede de Tijolo Rosa Antigo",
 		"PoopBlock": "Cocô",
 		"PoopWall": "Parede de Cocô",
-		"GoblinSummonerBanner": "Bandeira da Bruxa Goblin"
+		"GoblinSummonerBanner": "Bandeira da Bruxa Goblin",
+		"Pwnhammer": "Pwnmartelo"
 	},
 	"ItemTooltip": {
 		"ChlorophyteMask": "16% de aumento nos danos por ataques físicos\n6% de aumento na chance de acerto crítico físico",
