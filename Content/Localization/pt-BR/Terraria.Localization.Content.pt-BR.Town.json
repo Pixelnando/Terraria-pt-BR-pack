@@ -15,6 +15,9 @@
 	"PartyGirlSpecialText": {
 		"Windy1": "Alguém falou \"Furacão 2000\"? É o som ideal para uma festa nesta ventania..."
 	},
+	"NurseSpecialText": {
+		"DeathCountHigh": "Uau, já derrotaram você {TotalDeathsCount} vezes? Você já pensou em mudar de profissão? Talvez trabalhar numa fazenda..."
+	},
 	"ArmsDealerSpecialText": {
 		"Rain2": "Peixes voadores? Eu chamo de \"tiro ao alvo\"!"
 	},
