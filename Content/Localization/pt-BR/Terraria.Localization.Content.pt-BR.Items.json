@@ -726,6 +726,7 @@
 		"PoopWall": "Parede de Cocô",
 		"GoblinSummonerBanner": "Bandeira da Bruxa Goblin",
 		"Pwnhammer": "Pwnmartelo"
+		"HelFire": "Ioiô-Infernal",
 	},
 	"ItemTooltip": {
 		"ChlorophyteMask": "16% de aumento nos danos por ataques físicos\n6% de aumento na chance de acerto crítico físico",
@@ -1129,7 +1130,7 @@
 		"GardenGnome": "\"Dizem que traz boa sorte e que é capaz de afastar os espíritos do mal\"",
 		"GelBalloon": "\"Cheio de água do banho da Garota da Festa\"",
 		"Gladius": "\"Não se divertiram?!\"",
-		"GoldGoldfish": "\"Não confundir com o Peixe-dourado de Ouro Dourado\"",
+		"GoldGoldfish": "\"Não confundir com o Peixe-Dourado de Ouro Dourado\"",
 		"GoldGoldfishBowl": "\"É um aquário dourado? Ou um peixe dourado?\"",
 		"GolfPainting4": "\"Ceci n\"est pas un club de golf.\"\n{$PaintingArtist.Crowno}",
 		"JellyfishDivingGear": "Concede a habilidade de nadar e aumenta consideravelmente o fôlego embaixo d'água\nGera um brilho sutil, que fica mais intenso embaixo d’água",
@@ -1142,7 +1143,7 @@
 		"QuadBarrelShotgun": "\"Quando 2 ou 3 não são o bastante\"",
 		"RedPotion": "\"Só para os que são dignos o suficiente\"",
 		"ReleaseDoves": "\"Libertas durante certas cerimônias\"",
-		"RockLobster": "\"Seu nome é Agostinho\"",
+		"RockLobster": "\"Pronto para ser servido \"ao gostinho\"!\"",
 		"RollingCactus": "\"Eles vão odiar...\"",
 		"ShroomMinecart": "\"O cogumelo mais rápido do oeste\"",
 		"SliceOfCake": "\"Suje a cara. Jogue na cara de alguém. Tanto faz.\"",
