@@ -728,6 +728,7 @@
 		"Pwnhammer": "Pwnmartelo"
 		"HelFire": "Ioiô-Infernal",
 		"EmptyDropper": "Conta-Gotas Vazio",
+		"Wyverntail": "Peixe-Cauda-de-Serpe",
 	},
 	"ItemTooltip": {
 		"ChlorophyteMask": "16% de aumento nos danos por ataques físicos\n6% de aumento na chance de acerto crítico físico",
@@ -911,7 +912,7 @@
 		"DarkMageBookMountItem": "Invoca um livro mágico que pode ser montado\n\"Dizem que este livro serve a quem o detém.\"",
 		"DD2BetsyPetItem": "Invoca a Betsy Pequenina\n\"Não requer sacrifícios de fogo!\"",
 		"DD2OgrePetItem": "Invoca um filhote de ogro\n\"Não ser para mais nada além de esmagar.\"",
-		"DukeFishronPetItem": "Invoca um Peixe-dragão pequeno\n\"Sal a gosto.\"",
+		"DukeFishronPetItem": "Invoca um Peixe-Dragão pequeno\n\"Sal a gosto.\"",
 		"EaterOfWorldsPetItem": "Invoca o Devorador de Vermes\n\"Nem precisa de vermífugo!\"",
 		"EverscreamPetItem": "Invoca uma muda de Everscream\n\"Brilha, brilha!\"",
 		"EyeOfCthulhuPetItem": "Invoca um olho suspeito\n\"Parece que ele sofreu um golpe de vista.\"",
@@ -1279,7 +1280,7 @@
 		"DirtiestBlock": "\"Agora com 20% a mais de terra!\"",
 		"WaffleIron": "\"Está na hora do Waffle!\"",
 		"JimsDrone": "Vire para a Esquerda/Direita para dirigir e Pressione para Cima para acelerar\n\"A primeira regra do Clube da Luta é: não fale sobre o Clube da Luta\"",
-		"JimsDroneVisor": "Permite que quem o utiliza veja através da câmera de seu drone\n\"Sistema RC Peixe-dragão Gordinho\"",
+		"JimsDroneVisor": "Permite que quem o utiliza veja através da câmera de seu drone\n\"Sistema RC Peixe-Dragão Gordinho\"",
 		"SDMG": "66% de chance de economizar munição\n\"Veio das profundezas do espaço\"",
 		"GuideVoodooDoll": "\"Você é uma pessoa muito má.\"",
 		"Megashark": "50% de chance de economizar munição\n\"O irmão mais velho do Mini-Tubarão\"",
