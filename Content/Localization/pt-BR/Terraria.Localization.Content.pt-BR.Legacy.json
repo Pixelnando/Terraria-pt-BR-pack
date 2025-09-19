@@ -47,7 +47,8 @@
 		"93": "Médio",
 		"31": "Personagens do modo Clássico largam dinheiro quando morrem.",
 		"223": "Descarte Rápido: Shift Esquerdo",
-		"224": "Descarte Rápido: Control Esquerdo"
+		"224": "Descarte Rápido: Control Esquerdo",
+		"86": "Redefinir p/ Padrão"
 		
 	},
 	"LegacyTooltip": {
@@ -109,11 +110,14 @@
 		"44": "Recebendo dados sobre as peças",
 		"5": "Hotbar: Desbloqueada",
 		"6": "Hotbar: Bloqueada",
-		"72": "Ligada",
+		"73": "Desligado",
 		"92": "Mascote",
 		"94": "Mascote Luminoso",
 		"67": "Capturar Imagem Cortada",
-		"111": "Capturar Tela Inteira"
+		"111": "Capturar Tela Inteira",
+		"75": "Entidades",
+		"76": "Cenário",
+		"74": "Unir Imagem"
 	},
 	"LegacyChestType": {
 		"20": "Baú do Carmim",
