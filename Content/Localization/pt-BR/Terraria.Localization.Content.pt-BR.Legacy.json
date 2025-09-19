@@ -111,7 +111,9 @@
 		"6": "Hotbar: Bloqueada",
 		"72": "Ligada",
 		"92": "Mascote",
-		"94": "Mascote Luminoso"
+		"94": "Mascote Luminoso",
+		"67": "Capturar Imagem Cortada",
+		"111": "Capturar Tela Inteira"
 	},
 	"LegacyChestType": {
 		"20": "Baú do Carmim",
