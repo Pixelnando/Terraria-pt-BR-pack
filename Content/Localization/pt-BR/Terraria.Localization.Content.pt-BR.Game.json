@@ -166,7 +166,7 @@
 		"npc_IchorSticker": "Repletas de um icor poderoso, estas abominações parecidas com lulas cospem um fluído biológico corrosivo sobre suas presas.",
 		"npc_LunarTowerNebula": "Representando um corpo celeste tempestuoso conhecido como \"nébula\", esta torre contém o selo que prende um tirano terrível.",
 		"npc_LunarTowerSolar": "Representando um evento celeste flamejante conhecido como \"erupção solar\", esta torre contém o selo que prende um tirano terrível.",
-		"npc_LunarTowerStardust": "Representando um resíduo celeste brilhante conhecido como \"pó das estrelas\", esta torre contém o selo que prende um tirano terrível.",
+		"npc_LunarTowerStardust": "Representando um resíduo celeste brilhante conhecido como \"poeira estelar\", esta torre contém o selo que prende um tirano terrível.",
 		"npc_LunarTowerVortex": "Representando um vácuo celeste profundo conhecido como \"vórtice\", esta torre contém o selo que prende um tirano terrível.",
 		"npc_Crimslime": "Adotando a consistência de sangue coagulado e carne, Geleias do Carmim buscam e digerem matéria-prima para o Carmim.",
 		"npc_DesertGhoulCrimson": "Um icor vil escorre das bocas de Ghouls infectados pelo Carmim, diminuindo a defesa dos inimigos a cada mordida.",
@@ -240,4 +240,5 @@
 		"5": "Eu tenho claustrofobia!"
 	}
 }
+
 
