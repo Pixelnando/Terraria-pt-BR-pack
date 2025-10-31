@@ -122,6 +122,9 @@
 		"AllDeath": "/mortestodos",
 		"AllPVPDeath": "/mortesjvjtodos"
 	},
+	"Bestiary_Biomes": {
+		"StardustPillar": "Coluna de Poeira Estelar"
+	},
 	"Bestiary_ItemDropConditions": {
 		"BeatAnyMechBoss": "É deixado após derrotar qualquer Chefe Mecânico",
 		"CorruptKeyCondition": "É deixado na Corrupção no Modo Difícil",
@@ -237,3 +240,4 @@
 		"5": "Eu tenho claustrofobia!"
 	}
 }
+
